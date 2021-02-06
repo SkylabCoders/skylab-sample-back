@@ -1,13 +1,15 @@
-# Admira-Pokething
-
-This is a project built for Admira as a part of the hiring process.
+# Skylab-Sample-Back-Pokedex
 
 The App is a full responsive Pokédex Web App which displays a list of the first 151 pokemons and their details.
 
+This is the back-end repository, and to launch the App, it needs the front-end part you can find in this link:
+[skylab-sample-front](https://github.com/SkylabCoders/skylab-sample-front)
 # To run the project (scripts)
-After you clone the project go inside each folder **[front-end, back-end]** and run the command **npm install** on both (*Used node version: 14.15.3*)
+
+After you clone the project go inside each folder **[front-end, back-end]** and run the command **npm install** on both (_Used node version: 14.15.3_)
 
 The scripts you can run with npm (or yarn) are:
+
 - **npm start** (to start the server): Start both front & back
 - **npm test** (to see unit & component tests): In each separated folder [front-end, back-end]
 
@@ -16,6 +18,7 @@ The scripts you can run with npm (or yarn) are:
 # Tech Stack & Libraries
 
 ## MERN Stack:
+
 - **React**
 - **Redux**
 - **Node.js** (with Express)
@@ -23,8 +26,8 @@ The scripts you can run with npm (or yarn) are:
 
 <br>
 
-
 ## Unit & Component testing:
+
 - **Jest** (More than 50 tests)
 - You can run the tests with **npm test** (inside each folder [front-end, back-end])
 
@@ -37,6 +40,7 @@ The scripts you can run with npm (or yarn) are:
 <br>
 
 ## Other Libraries & Tools:
+
 - **EsLint** (for good pratices & code styling)
 - **Axios**
 - **react-router-dom**
